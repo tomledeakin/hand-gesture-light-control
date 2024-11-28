@@ -1,6 +1,5 @@
 # **Light Controlling Using Hand Gestures**
 
-**Start Date:** November 23, 2024  
 **Organization:** AI VIETNAM – COURSE 2024  
 
 ---

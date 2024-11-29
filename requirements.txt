@@ -1,3 +1,0 @@
-!pip install mediapipe==0.10.18
-!pip install torchmetrics
-!pip install pyserial
